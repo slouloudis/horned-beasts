@@ -9,3 +9,5 @@ root.render(
   </React.StrictMode>
 );
 
+// think about where to call the modul component
+// selected beast = the modal 

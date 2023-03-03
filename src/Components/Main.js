@@ -15,6 +15,3 @@ export default function Main() {
   )
 }
 
-// use array method map. 
-// write 1 horned beast component 
-// imoirt json file. 
